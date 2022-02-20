@@ -7,6 +7,8 @@ A utility to search, download global level PERSIANN precipitation data from [CHR
 Center for Hydrometeorology and Remote Sensing (CHRS) at the University of California, Irvine (UCI) provides several
 precipitation(rainfall) related datasets at a global scale that can be utilised for rainfall data analysis.
 
+---
+
 ### PERSIANN
 
 CHRS developed a system called Precipitation Estimation from Remotely Sensed Information using Artificial Neural
@@ -31,6 +33,8 @@ procedures.
 
 **Latest Update**: Near real-time with 2 day delay
 
+---
+
 ### PERSIAN-CCS
 
 PERSIANN-Cloud Classification System (PERSIANN-CCS) is a real-time global high resolution (0.04° x 0.04° or 4km x 4km;)
@@ -53,6 +57,8 @@ cloud height, areal extent, and variability of texture estimated from satellite 
 **FTP also available**: ftp://persiann.eng.uci.edu/CHRSdata/PERSIANN-CCS
 
 **Latest Update**: Real-time
+
+---
 
 ### PERSIANN-CDR
 
@@ -79,6 +85,8 @@ record.
 **FTP also available**: ftp://persiann.eng.uci.edu/CHRSdata/PERSIANN-CDR
 
 **Latest Update**: September 2020
+
+---
 
 ### PDIR-Now
 
