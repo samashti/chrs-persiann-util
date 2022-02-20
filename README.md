@@ -130,6 +130,9 @@ or, you could go the project directory that contains the setup.py and run the pi
 pip install .
 ```
 
+If you encounter a bug, please file an issue with steps to reproduce it on [Github](https://github.com/samashti/chrs-persiann-util/issues).
+Please use the same for any feature requests, enhancements or suggestions.
+
 ## Example
 
 Instructions for Parameters:
